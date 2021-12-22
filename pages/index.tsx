@@ -6,14 +6,14 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
-        <meta name="description" content="Sven's template page" />
+        <title>Hello World!</title>
+        <meta name="description" content="Sven's website" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello
+          Hello!
         </h1>
       </main>
     </div>
